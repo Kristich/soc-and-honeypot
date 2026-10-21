@@ -510,19 +510,5 @@ The investigation demonstrates the importance of correlating database auditing, 
 - Incident Response Planning
 - Technical Reporting and Documentation
 
----
 
-### Source Documents
-
-This case study consolidates findings from:
-
-1. **Security Incident Report: MySQL Database Destruction and Ransom Extortion**
-   - Analyst: Christopher Akpala
-   - Date: 19 October 2026
-
-2. **MDE Live Response: Comparative DFIR Assessment**
-   - Host: CORP-Kristich
-   - Date: 19 October 2026
-
----
 
